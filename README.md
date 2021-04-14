@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @minerior
 - 👀 I’m interested in python
 - 🌱 I’m currently learning everything I dont know about python, especially pyqt5
-- 📫 How to reach me
+- 📫 Reach me with
   -myrant518@gmail.com
 
 <!---
